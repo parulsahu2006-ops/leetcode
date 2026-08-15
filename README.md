@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parulsahu2006-ops/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/parulsahu2006-ops/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parulsahu2006-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3151-special-array-i](https://github.com/parulsahu2006-ops/leetcode/tree/master/3151-special-array-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parulsahu2006-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/parulsahu2006-ops/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
