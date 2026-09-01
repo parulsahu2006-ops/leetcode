@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/parulsahu2006-ops/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/parulsahu2006-ops/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/parulsahu2006-ops/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/parulsahu2006-ops/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/parulsahu2006-ops/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
