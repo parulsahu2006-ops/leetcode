@@ -130,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/parulsahu2006-ops/leetcode/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/parulsahu2006-ops/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/parulsahu2006-ops/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
