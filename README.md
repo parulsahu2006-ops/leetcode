@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/parulsahu2006-ops/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parulsahu2006-ops/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/parulsahu2006-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parulsahu2006-ops/leetcode/tree/master/0020-valid-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
