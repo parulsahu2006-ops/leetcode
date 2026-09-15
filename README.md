@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/parulsahu2006-ops/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/parulsahu2006-ops/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/parulsahu2006-ops/leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parulsahu2006-ops/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/parulsahu2006-ops/leetcode/tree/master/0136-single-number) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/parulsahu2006-ops/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
