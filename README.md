@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/parulsahu2006-ops/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/parulsahu2006-ops/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/parulsahu2006-ops/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/parulsahu2006-ops/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/parulsahu2006-ops/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parulsahu2006-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/parulsahu2006-ops/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/parulsahu2006-ops/leetcode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
