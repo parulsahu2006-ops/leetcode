@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/parulsahu2006-ops/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/parulsahu2006-ops/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/parulsahu2006-ops/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/parulsahu2006-ops/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/parulsahu2006-ops/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/parulsahu2006-ops/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/parulsahu2006-ops/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/parulsahu2006-ops/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/parulsahu2006-ops/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
