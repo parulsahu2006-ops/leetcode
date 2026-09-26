@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/parulsahu2006-ops/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/parulsahu2006-ops/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/parulsahu2006-ops/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/parulsahu2006-ops/leetcode/tree/master/0049-group-anagrams) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parulsahu2006-ops/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/parulsahu2006-ops/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/parulsahu2006-ops/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parulsahu2006-ops/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/parulsahu2006-ops/leetcode/tree/master/0055-jump-game) |
 ## Manacher
 |  |
