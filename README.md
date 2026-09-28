@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parulsahu2006-ops/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/parulsahu2006-ops/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/parulsahu2006-ops/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parulsahu2006-ops/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/parulsahu2006-ops/leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -213,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/parulsahu2006-ops/leetcode/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
