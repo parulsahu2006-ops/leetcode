@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/parulsahu2006-ops/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/parulsahu2006-ops/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/parulsahu2006-ops/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/parulsahu2006-ops/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/parulsahu2006-ops/leetcode/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/parulsahu2006-ops/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/parulsahu2006-ops/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
 ## Algorithm X
 |  |
 | ------- |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
