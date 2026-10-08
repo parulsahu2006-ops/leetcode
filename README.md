@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/parulsahu2006-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parulsahu2006-ops/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/parulsahu2006-ops/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/parulsahu2006-ops/leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/parulsahu2006-ops/leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/parulsahu2006-ops/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/parulsahu2006-ops/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parulsahu2006-ops/leetcode/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
