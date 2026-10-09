@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parulsahu2006-ops/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/parulsahu2006-ops/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parulsahu2006-ops/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
