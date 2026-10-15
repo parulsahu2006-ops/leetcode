@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parulsahu2006-ops/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/parulsahu2006-ops/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/parulsahu2006-ops/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/parulsahu2006-ops/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/parulsahu2006-ops/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/parulsahu2006-ops/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parulsahu2006-ops/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/parulsahu2006-ops/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/parulsahu2006-ops/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parulsahu2006-ops/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 ## Design
 |  |
 | ------- |
@@ -261,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
