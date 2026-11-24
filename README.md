@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/parulsahu2006-ops/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parulsahu2006-ops/leetcode/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/parulsahu2006-ops/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parulsahu2006-ops/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/parulsahu2006-ops/leetcode/tree/master/0120-triangle) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/parulsahu2006-ops/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/parulsahu2006-ops/leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/parulsahu2006-ops/leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/parulsahu2006-ops/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/parulsahu2006-ops/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/parulsahu2006-ops/leetcode/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/parulsahu2006-ops/leetcode/tree/master/0383-ransom-note) |
